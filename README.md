@@ -1,11 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=avnoor-488.avnoor-488">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;
-     T This+is+Avnoor+Singh....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Avnoor+Singh....;Nice+to+meet+you!&height=80&width=600&size=40&center=true)](https://git.io/typing-svg)
+
+
 
 ### 📬 Reach me out at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/avnoor-488/)](https://github.com/avnoor-488/) 
@@ -14,8 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avnoorsingh488.com)](mailto:avnoorsingh488@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__.avnoor.___/)](https://www.instagram.com/__.avnoor.___/)
 
-
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 Hi, I'm Avnoor, **Electronics and Communication🎓** at **Thapar Institute of Engineering and Technology, Patiala** and an **Aspiring Software Engineer**. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
