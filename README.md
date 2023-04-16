@@ -66,7 +66,7 @@ Hi, I'm Avnoor, **Electronics and Communication🎓** at **Thapar Institute of E
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 14 April 2023
+From: 15 October 2022 - To: 15 April 2023
 
 Total Time: 340 hrs 7 mins
 
