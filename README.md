@@ -126,5 +126,5 @@ Windows                  10 hrs 7 mins       ███████████�
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avnoor-488&theme=elegant&bg_color=20232a&hide_border=true" width="100%"/>
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avnoor-488&theme=elegant&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
