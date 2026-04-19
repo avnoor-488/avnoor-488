@@ -60,48 +60,20 @@ Hi, I'm Avnoor, Currently working as Full Stack Engineer from past 1+ years and 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C139%20hrs%2034%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 17 October 2025 - To: 17 April 2026
 
-**I'm an Early 🐤** 
+Total Time: 148 hrs 47 mins
 
-```text
-🌞 Morning                1056 commits        █████████░░░░░░░░░░░░░░░░   37.31 % 
-🌆 Daytime                790 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-🌃 Evening                775 commits         ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-🌙 Night                  209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Java                       50 hrs 21 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.84 %
+Python                     17 hrs 52 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.01 %
+Other                      14 hrs 14 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.57 %
+TypeScript                 9 hrs 1 min           ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.07 %
+XML                        8 hrs 11 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.51 %
+Markdown                   6 hrs 39 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.48 %
+YAML                       6 hrs 30 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.37 %
 ```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Wednesday                375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Thursday                 380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Friday                   419 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Saturday                 382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     2 hrs 18 mins       ████████████████░░░░░░░░░   63.69 % 
-Other                    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Python                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
