@@ -67,21 +67,21 @@ Hi, I'm Avnoor, Currently working as Full Stack Engineer from past 1+ years and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1064 commits        █████████░░░░░░░░░░░░░░░░   37.37 % 
-🌆 Daytime                790 commits         ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-🌃 Evening                784 commits         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+🌞 Morning                1065 commits        █████████░░░░░░░░░░░░░░░░   37.39 % 
+🌆 Daytime                790 commits         ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+🌃 Evening                784 commits         ███████░░░░░░░░░░░░░░░░░░   27.53 % 
 🌙 Night                  209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   444 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Tuesday                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Monday                   445 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Tuesday                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 Wednesday                377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Thursday                 382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Friday                   421 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Friday                   421 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Saturday                 385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Sunday                   396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Sunday                   396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 ```
 
 
