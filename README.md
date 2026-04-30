@@ -60,27 +60,27 @@ Hi, I'm Avnoor, Currently working as Full Stack Engineer from past 1+ years and 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C144%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C145%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1067 commits        █████████░░░░░░░░░░░░░░░░   37.41 % 
-🌆 Daytime                790 commits         ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-🌃 Evening                786 commits         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+🌞 Morning                1068 commits        █████████░░░░░░░░░░░░░░░░   37.43 % 
+🌆 Daytime                790 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+🌃 Evening                786 commits         ███████░░░░░░░░░░░░░░░░░░   27.55 % 
 🌙 Night                  209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Monday                   446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 Tuesday                  443 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Wednesday                379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Thursday                 382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Wednesday                379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Thursday                 383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 Friday                   421 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Saturday                 385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Saturday                 385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 Sunday                   396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 ```
 
