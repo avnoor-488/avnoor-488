@@ -60,28 +60,28 @@ Hi, I'm Avnoor, Currently working as Full Stack Engineer from past 1+ years and 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C145%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C145%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1068 commits        █████████░░░░░░░░░░░░░░░░   37.42 % 
-🌆 Daytime                790 commits         ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-🌃 Evening                787 commits         ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌞 Morning                1069 commits        █████████░░░░░░░░░░░░░░░░   37.44 % 
+🌆 Daytime                790 commits         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+🌃 Evening                787 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
 🌙 Night                  209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Monday                   446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 Tuesday                  443 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Wednesday                379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 Thursday                 384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Friday                   421 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Friday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Saturday                 385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Sunday                   396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Sunday                   396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
 
