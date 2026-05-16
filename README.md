@@ -60,28 +60,28 @@ Hi, I'm Avnoor, Currently working as Full Stack Engineer from past 1+ years and 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C155%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C158%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1083 commits        █████████░░░░░░░░░░░░░░░░   37.24 % 
-🌆 Daytime                790 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+🌞 Morning                1084 commits        █████████░░░░░░░░░░░░░░░░   37.26 % 
+🌆 Daytime                790 commits         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
 🌃 Evening                801 commits         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-🌙 Night                  234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+🌙 Night                  234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   450 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Tuesday                  446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Tuesday                  446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 Wednesday                383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
 Thursday                 388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
 Friday                   427 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Saturday                 414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Sunday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Saturday                 415 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Sunday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 ```
 
 
