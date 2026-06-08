@@ -60,27 +60,27 @@ Hi, I'm Avnoor, Currently working as Full Stack Engineer from past 1+ years and 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C168%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C168%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1106 commits        █████████░░░░░░░░░░░░░░░░   37.34 % 
-🌆 Daytime                798 commits         ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-🌃 Evening                824 commits         ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+🌞 Morning                1107 commits        █████████░░░░░░░░░░░░░░░░   37.36 % 
+🌆 Daytime                798 commits         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+🌃 Evening                824 commits         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
 🌙 Night                  234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   456 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Tuesday                  452 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Monday                   457 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Tuesday                  452 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 Wednesday                389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 Thursday                 402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Friday                   433 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Saturday                 422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Friday                   433 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Saturday                 422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 Sunday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
 
