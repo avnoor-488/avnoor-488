@@ -62,7 +62,7 @@ Hi, I'm Avnoor, Currently working as Full Stack Engineer from past 1+ years and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2026 - To: 09 July 2026
+From: 09 January 2026 - To: 10 July 2026
 
 Total Time: 147 hrs 51 mins
 
